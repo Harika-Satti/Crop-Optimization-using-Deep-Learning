@@ -73,3 +73,64 @@ Finally, it predicts crop yield using **LSTM (Long Short-Term Memory)** models b
 ├── app/
 │   ├── run.bat                      # Batch file to run the application
 │   ├── README.md                    # Project documentation
+
+# Results Analysis
+
+In the proposed method, we used:
+
+a) Soil prediction and crop recommendation  
+b) Plant leaf disease detection and fertilizer recommendation  
+c) Crop yield prediction
+
+## GUI for Proposed Method
+
+![GUI for proposed Method] (https://github.com/user-attachments/assets/93e83628-0503-4a6a-96f7-122ef7d51710)
+
+## Upload the Dataset Related to Soil
+
+![Upload the dataset related to soil](path/to/upload_soil_dataset.png)
+
+## After Uploading the Soil Dataset, Details are Shown
+
+![After uploading the soil dataset, details are shown](path/to/soil_details_shown.png)
+
+## Confusion Matrix for Soil Classification and Plant Recommendation
+
+![Confusion matrix for soil classification and plant recommendation](path/to/soil_confusion_matrix.png)
+
+## Select Soil Image for Testing
+
+![Select soil image for testing](path/to/select_soil_image.png)
+
+## Soil Predicted and Crop Recommended
+
+![Soil predicted and crop recommended](path/to/soil_crop_recommended.png)
+
+## Uploading Leaf Disease Dataset
+
+![Uploading leaf disease dataset](path/to/upload_leaf_disease_dataset.png)
+
+## After Uploading, Details are Shown
+
+![After uploading, details are shown](path/to/leaf_disease_details_shown.png)
+
+## Confusion Matrix for Plant Disease Detection and Fertilizer Recommendation
+
+![Confusion Matrix for plant disease detection and fertilizer recommendation](path/to/disease_fertilizer_confusion_matrix.png)
+
+## Normal Leaf Without Disease
+
+![Normal leaf without disease](path/to/normal_leaf_without_disease.png)
+
+## Disease is Predicted and Fertilizer is Recommended
+
+![Disease is predicted and fertilizer is recommended](path/to/disease_predicted_fertilizer_recommended.png)
+
+## Linear Regression R² Score is Shown
+
+![Linear regression R² score is shown](path/to/linear_regression_r2_score.png)
+
+## Crop Yield Prediction Interface
+
+![Crop yield prediction interface](path/to/crop_yield_prediction_interface.png)
+
