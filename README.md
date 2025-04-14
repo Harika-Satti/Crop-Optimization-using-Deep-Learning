@@ -74,6 +74,8 @@ Finally, it predicts crop yield using **LSTM (Long Short-Term Memory)** models b
 │   ├── run.bat                      # Batch file to run the application
 │   ├── README.md                    # Project documentation
 
+```
+
 # Results Analysis
 
 In the proposed method, we used:
