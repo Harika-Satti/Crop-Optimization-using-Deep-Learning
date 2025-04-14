@@ -90,11 +90,12 @@ c) Crop yield prediction
 
 ## Upload the Dataset Related to Soil
 
-![Upload the dataset related to soil](path/to/upload_soil_dataset.png)
+![Upload the dataset related to soil](https://github.com/user-attachments/assets/e0c6c56b-5636-46c8-bba1-ff35bf9e28b5)
+
 
 ## After Uploading the Soil Dataset, Details are Shown
 
-![After uploading the soil dataset, details are shown](path/to/soil_details_shown.png)
+![After uploading the soil dataset, details are shown]![image](https://github.com/user-attachments/assets/93d7cc2a-b010-4fdc-be39-c55f7bcc3f43)
 
 ## Confusion Matrix for Soil Classification and Plant Recommendation
 
