@@ -86,7 +86,7 @@ c) Crop yield prediction
 
 ## GUI for Proposed Method
 
-![GUI for proposed Method] (https://github.com/user-attachments/assets/93e83628-0503-4a6a-96f7-122ef7d51710)
+![GUI for proposed Method](https://github.com/user-attachments/assets/93e83628-0503-4a6a-96f7-122ef7d51710)
 
 ## Upload the Dataset Related to Soil
 
