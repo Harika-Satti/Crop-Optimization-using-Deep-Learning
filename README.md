@@ -51,20 +51,25 @@ Finally, it predicts crop yield using **LSTM (Long Short-Term Memory)** models b
 ## 📂 Project Structure
 
 ```bash
-├── soil_prediction/
-│   ├── cnn_model.py
-├── crop_recommendation/
-│   ├── random_forest.py
-│   ├── xgboost.py
-├── plant_disease_detection/
-│   ├── mobilenet_cnn.py
-├── fertilizer_suggestion/
-│   ├── fertilizer_recommender.py
-├── crop_yield_prediction/
-│   ├── lstm_model.py
-├── dataset/
-│   ├── soil_images/
-│   ├── leaf_images/
-├── app.py
-├── requirements.txt
-├── README.md
+├── datasets/
+│   ├── PlantDiseaseDataset/         # Dataset for plant disease detection
+│   ├── SoilDataset/                 # Dataset for soil prediction
+│   ├── testImages/                  # Test images for model validation
+│   ├── testsoil/                    # Test soil data for model validation
+│   ├── Agricultural_yield.csv       # Agricultural yield dataset
+├── models/
+│   ├── model/                       # Pre-trained models or model definitions
+│   ├── crop_main.py                 # Main script for crop prediction model
+│   ├── testtrain.py                 # Script to test the training of models
+├── results/
+│   ├── results.docx                 # Document with model results
+│   ├── Optimizing Agriculture PAPER.docx  # Paper on optimizing agriculture
+│   ├── Optimizing Agriculture Using Machine Learning Techniques (1).docx  # ML techniques for agriculture
+├── gui/
+│   ├── gui_code.py                  # Code for the graphical user interface
+│   ├── front.png                    # Front-end image for the interface
+├── dependencies/
+│   ├── packages_required.txt        # Python dependencies file
+├── app/
+│   ├── run.bat                      # Batch file to run the application
+│   ├── README.md                    # Project documentation
